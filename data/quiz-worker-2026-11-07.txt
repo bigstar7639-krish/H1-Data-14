@@ -64,3 +64,6 @@ A: 6 - History
 Auto Quiz - Student 🧠
 Q: In the book "The Martian", how long was Mark Watney trapped on Mars (in Sols)?
 A: 549 Days - Entertainment: Books
+Auto Quiz - Money 🧠
+Q: Which car is NOT featured in "Need for Speed: Hot Pursuit 2"?
+A: Toyota MR2 - Entertainment: Video Games
