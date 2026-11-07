@@ -52,3 +52,6 @@ A: 12 - Entertainment: Music
 Auto Quiz - Sun 🧠
 Q: The Quran is the holy book of which Abrahamic religion?
 A: Islam - General Knowledge
+Auto Quiz - Bird 🧠
+Q: What does SSD stand for?
+A: Solid State Drive - Science: Computers
