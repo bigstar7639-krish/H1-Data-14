@@ -61,3 +61,6 @@ A: Smoothie mouse - Science: Gadgets
 Auto Quiz - Teacher 🧠
 Q: How many manned moon landings have there been?
 A: 6 - History
+Auto Quiz - Student 🧠
+Q: In the book "The Martian", how long was Mark Watney trapped on Mars (in Sols)?
+A: 549 Days - Entertainment: Books
