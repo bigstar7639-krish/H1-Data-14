@@ -58,3 +58,6 @@ A: Solid State Drive - Science: Computers
 Auto Quiz - Animal 🧠
 Q: Which of the following is not a type of computer mouse?
 A: Smoothie mouse - Science: Gadgets
+Auto Quiz - Teacher 🧠
+Q: How many manned moon landings have there been?
+A: 6 - History
