@@ -55,3 +55,6 @@ A: Islam - General Knowledge
 Auto Quiz - Bird 🧠
 Q: What does SSD stand for?
 A: Solid State Drive - Science: Computers
+Auto Quiz - Animal 🧠
+Q: Which of the following is not a type of computer mouse?
+A: Smoothie mouse - Science: Gadgets
