@@ -28,3 +28,6 @@ A: Galois Theory - Science: Mathematics
 Auto Quiz - Movie 🧠
 Q: Who was the first jedi that Starkiller had to kill in Star Wars: The Force Unleashed?
 A: Rahm Kota - Entertainment: Video Games
+Auto Quiz - Temple 🧠
+Q: In Game of Thrones, what continent lies across the Narrow Sea from Westeros?
+A: Essos - Entertainment: Television
