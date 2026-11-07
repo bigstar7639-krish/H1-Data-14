@@ -7,3 +7,6 @@ A: To prevent viewing games from outside the park. - Sports
 Auto Quiz - Cat 🧠
 Q: Which is the largest city in Morocco?
 A: Casablanca - Geography
+Auto Quiz - Dog 🧠
+Q: Which of the following Copy Abilities was only featured in "Kirby & The Amazing Mirror"?
+A: Mini - Entertainment: Video Games
