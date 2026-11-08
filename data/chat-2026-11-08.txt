@@ -222,3 +222,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Knowledge 6240 - Peace - Peace pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Q 6241 - Cat pathi oru secret sollatta?
 Recipe 6242 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Knowledge 6243 - Kindness - Kindness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
