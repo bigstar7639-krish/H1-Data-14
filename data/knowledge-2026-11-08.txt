@@ -306,3 +306,6 @@ A: Jeremy Shada - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What is the capital of Senegal?
 A: Dakar - Geography
+Knowledge Quiz
+Q: What mythology did the god "Apollo" come from?
+A: Greek and Roman - Mythology
