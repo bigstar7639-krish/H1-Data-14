@@ -619,3 +619,4 @@ Courage (துணிச்சல்) ஒரு skill-யாக train‑செ�
 - **Details:** எல்லா senses‑னும் use பண்ணு – என்ன பார்க்கிறாய், என்ன கேட்கிறாய், எப்படி feel ஆகிறது. End‑இல் நீ success‑ஆக end பண்ணு.  
 - **Effect:** Brai
 Health 6470 - Yoga Tip: Daily 5 min deep breath edu!
+Talk 6471 - Animals pathi pesalama? Sollu!
