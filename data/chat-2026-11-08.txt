@@ -649,3 +649,5 @@ Pazhamozhi 6490 - Sontha Kaal la Ninnu - Jeyippa!
 Coding Q 6491 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Q 6492 - Unakku Wisdom pathi enna theriyum?
+Motivation 6493
+Paravalla! Rest edu - Thirumba try pannu!
