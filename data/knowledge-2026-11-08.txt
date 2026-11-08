@@ -644,3 +644,6 @@ Knowledge 6557 - Football - Football pathi sollu - Nalla question! Daily try pan
 Knowledge Quiz
 Q: Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?
 A: The Vikings  - Entertainment: Film
+Knowledge Quiz
+Q: According to the International System of Units, how many bytes are in a kilobyte of RAM?
+A: 1000 - Science: Computers
