@@ -89,3 +89,5 @@ Aira: Bug - Log paaru!
 Joke 6162
 Why bike sad? Petrol illa!
 Talk 6163 - Thirukkural pathi pesalama? Sollu!
+Emotion Q 6164 - sad?
+Aira: Paravalla! Aira irukka - Pesu!
