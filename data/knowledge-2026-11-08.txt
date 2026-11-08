@@ -592,3 +592,6 @@ A: Six o'clock - Entertainment: Music
 Knowledge Quiz
 Q: Who voice acted the character Hiccup in the movie "How to Train Your Dragon"?
 A: Jay Baruchel - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: In Portal 2, the iconic character GLaDOS is turned into:
+A: A potato - Entertainment: Video Games
