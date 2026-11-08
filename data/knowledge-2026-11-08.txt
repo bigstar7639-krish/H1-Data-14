@@ -72,3 +72,6 @@ A: 'For' loops - Science: Computers
 Knowledge Quiz
 Q: In the Team Fortress 2 canon, what did Shakespearicles NOT invent?
 A: Stairs - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these countries remained neutral during World War II?
+A: Switzerland - History
