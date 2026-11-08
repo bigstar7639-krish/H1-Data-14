@@ -138,3 +138,4 @@ Game 6183 - Dice - Ne Dice nu Sollu!
 Movie 6184 - Ponniyin Selvan - Kalki!
 Coding Q 6185 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Reading 6186 - Thirukkural - Valluvar!
