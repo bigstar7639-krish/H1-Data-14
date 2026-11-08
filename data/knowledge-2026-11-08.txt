@@ -681,3 +681,6 @@ A: Purple - Entertainment: Video Games
 Knowledge Quiz
 Q: Which celebrity announced his presidency in 2015?
 A: Kanye West - Celebrities
+Knowledge Quiz
+Q: In Left 4 Dead, what is the name of the Special Infected that is unplayable in Versus mode?
+A: The Witch - Entertainment: Video Games
