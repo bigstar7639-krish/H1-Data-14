@@ -139,3 +139,6 @@ A: Vectors - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In "Need for Speed III: Hot Pursuit", what is the name of the fictional car?
 A: El Niño - Entertainment: Video Games
+Knowledge Quiz
+Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
+A: 28% - General Knowledge
