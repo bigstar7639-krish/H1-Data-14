@@ -466,3 +466,6 @@ A: Fluffy - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the main character from the music video of "Shelter" by Porter Robinson and A-1 Studios?
 A: Rin - Entertainment: Music
+Knowledge Quiz
+Q: Which one of these Pink Floyd albums were also a movie?
+A: The Wall - Entertainment: Music
