@@ -463,3 +463,6 @@ A: Flute - Entertainment: Music
 Knowledge Quiz
 Q: In "Call Of Duty: Zombies", what is the name of Samantha Maxis' dog?
 A: Fluffy - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the main character from the music video of "Shelter" by Porter Robinson and A-1 Studios?
+A: Rin - Entertainment: Music
