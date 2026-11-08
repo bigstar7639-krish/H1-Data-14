@@ -488,3 +488,6 @@ A: Green - General Knowledge
 Knowledge Quiz
 Q: What do the Dutch call their language?
 A: Nederlands - General Knowledge
+Knowledge Quiz
+Q: Which of the following Inuit languages was the FIRST to use a unique writing system not based on the Latin alphabet?
+A: Inuktitut - Geography
