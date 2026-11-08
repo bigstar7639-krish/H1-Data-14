@@ -686,3 +686,5 @@ Joke 6505
 Why bike sad? Petrol illa!
 Story 6506
 Oru new york la oru farmer irunthan! Daily book padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
+Coding Q 6507 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
