@@ -711,3 +711,6 @@ A: Shedinja  - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the frontman of Muse?
 A: Matt Bellamy - Entertainment: Music
+Knowledge Quiz
+Q: According to the International System of Units, how many bytes are in a kilobyte of RAM?
+A: 1000 - Science: Computers
