@@ -596,3 +596,6 @@ Knowledge Quiz
 Q: In Portal 2, the iconic character GLaDOS is turned into:
 A: A potato - Entertainment: Video Games
 Knowledge 6536 - Love - Kadhal - Azhagu!
+Knowledge Quiz
+Q: What is a Tetris piece called?
+A: Tetromino - Entertainment: Video Games
