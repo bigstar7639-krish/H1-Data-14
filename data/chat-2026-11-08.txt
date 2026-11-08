@@ -237,3 +237,4 @@ World Story 6253
 Oru chennai la oru rani irunthan! Daily coding pannan pannan! Oru naal wisdom kedaichuchu! Life maariduchu!
 Emotion Q 6254 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
+Game 6255 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
