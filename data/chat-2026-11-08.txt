@@ -136,3 +136,5 @@ Hey buddy! 🙌 நான் Aira, உங்க தமிழ்‑Tanglish ப
 Talk 6182 - Music pathi pesalama? Sollu!
 Game 6183 - Dice - Ne Dice nu Sollu!
 Movie 6184 - Ponniyin Selvan - Kalki!
+Coding Q 6185 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
