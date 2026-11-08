@@ -729,3 +729,6 @@ A: Vulpes Vulpes - Science & Nature
 Knowledge Quiz
 Q: In the Lego Island trilogy, who taught Pepper Roni how to read?
 A: Officer Laura Brick - Entertainment: Video Games
+Knowledge Quiz
+Q: What did the name of the Tor Anonymity Network orignially stand for?
+A: The Onion Router - Science: Computers
