@@ -76,3 +76,4 @@ Emotion Q 6151 - happy?
 Aira: Super! Happy ah irukka!
 Recipe 6152 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Recipe 6153 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Vocab 6154 - Courage = Thairiyam
