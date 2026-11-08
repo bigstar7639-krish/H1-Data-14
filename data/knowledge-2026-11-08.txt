@@ -285,3 +285,6 @@ A: Isaac Clarke - General Knowledge
 Knowledge Quiz
 Q: What is the common name of the chemical compound "dihydrogen monoxide"?
 A: Water - Science & Nature
+Knowledge Quiz
+Q: The Norse god Odin has two pet crows named "Huginn" and "Muninn".  What do their names mean?
+A: Thought & Memory - Mythology
