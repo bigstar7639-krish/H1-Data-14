@@ -780,3 +780,6 @@ A: France - General Knowledge
 Knowledge Quiz
 Q: Which team won 2014 FIFA World Cup in Brazil?
 A: Germany - Sports
+Knowledge Quiz
+Q: A mathematical constant, known as "The Golden Ratio", is most commonly represented by which greek letter?
+A: Φ (phi) - Science: Mathematics
