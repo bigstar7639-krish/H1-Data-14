@@ -5,3 +5,5 @@ Talk 6120 - Bharathiyar pathi pesalama? Sollu!
 Thirukkural 6121 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Reading 6122 - Python Crash Course!
 Thirukkural 6123 - Anbu - Ellam Tharum! - Thirukkural
+Story 6124
+Oru chinna village la - Oru ponnu padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
