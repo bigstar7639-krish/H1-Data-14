@@ -172,3 +172,6 @@ A: Urutora - Geography
 Knowledge Quiz
 Q: Who was the first footballer to score 200 goals in the English Premier League?
 A: Alan Shearer - Sports
+Knowledge Quiz
+Q: What is the official language in Barcelona beside Spanish?
+A: Catalan - General Knowledge
