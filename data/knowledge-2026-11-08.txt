@@ -345,3 +345,6 @@ A: Eric Barone - Entertainment: Video Games
 Knowledge Quiz
 Q: After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?
 A: St. Helena - History
+Knowledge Quiz
+Q: The acronym DOTA stands for
+A: Defense of the Ancients - Entertainment: Video Games
