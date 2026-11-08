@@ -705,3 +705,4 @@ Thirukkural 6520 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Quote 6521 - Daily try pannu - Jeyichiduva! - Aira
 Health 6522 - Health Tip: Fruits daily saapdunga!
 Recipe 6523 - Snacks - Potato + Masala - Crispy!
+Kavithai 6524 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
