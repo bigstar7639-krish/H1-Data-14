@@ -475,3 +475,6 @@ A: Jupiter - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: Myopia is the scientific term for which condition?
 A: Shortsightedness - Science & Nature
+Knowledge Quiz
+Q: In "Rainbow Six: Siege", which of the following operators cannot breach reinforced walls?
+A: Buck - Entertainment: Video Games
