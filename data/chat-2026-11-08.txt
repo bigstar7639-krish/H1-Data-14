@@ -220,3 +220,4 @@ Thirukkural 6238 - Anbu - Ellam Tharum! - Thirukkural
 Coding Q 6239 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Knowledge 6240 - Peace - Peace pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Q 6241 - Cat pathi oru secret sollatta?
