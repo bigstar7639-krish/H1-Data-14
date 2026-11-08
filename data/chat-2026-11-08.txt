@@ -163,3 +163,5 @@ Recipe 6206 - Cake - Maida + Sugar + Egg + 30 min!
 Reading 6207 - Harry Potter!
 Health 6208 - Health Tip: Fruits daily saapdunga!
 Fact 265 - Tamil - 2000+ varusha mozhi!
+Coding Q 6210 - React la component enna?
+Aira: React component - Chinna piece!
