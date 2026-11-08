@@ -776,3 +776,4 @@ Talk 6558 - React pathi pesalama? Sollu!
 Pazhamozhi 6559 - Aalai Paathu - Aadi Paaru!
 Fact 280 - Honey - 3000 varusham kedathu!
 Business Idea 6561 - Tuition - Veetla Tuition!
+Thirukkural 6562 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
