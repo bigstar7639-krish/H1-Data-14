@@ -948,3 +948,4 @@ Aira AI: Freedom pathi oru story kekkura? - Nalla question! Daily try pannu - Je
 Pazhamozhi 6658 - Porumai - Perumai Tharum!
 Coding Q 6659 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Q 6660 - Un life la Moon eppadi irukku?
