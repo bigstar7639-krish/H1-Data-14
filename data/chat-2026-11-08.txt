@@ -436,3 +436,19 @@ Story 6369
 Oru chinna london la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
 Thirukkural 6370 - Kattrathu - Kai Mann Alavu! - Thirukkural
 Recipe 6371 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Knowledge 6372 - Ramayana - **Ramayana** – oru periya ancient Indian epic, adhan story *Rama*‑oda life‑a describe panrathu. Ithu **Sage Valmiki**‑oda *kavithai*‑la 7 *kandam* (cantos)‑la irukku. Ippo naan unga‑kku **Tamil‑Tanglish** style‑la konjam konjam solla poren, so you’ll get both Tamil and English vibes! 🚩
+
+---
+
+## 1. Basic Overview
+- **Author:** Sage **Valmiki** (sometimes called *Adi Kavi* – the first poet).  
+- **Language:** Originally Sanskrit, later translated into many languages – Tamil, Hindi, Malayalam, Telugu, etc.  
+- **Structure:** 7 Kandas (books) – *Bala, Ayodhya, Aranya, Kishkindha, Sundara, Yuddha, Uttara*.  
+
+---
+
+## 2. Main Characters (Characters & Their Roles)
+
+| Character | Role in Story | Quick Note |
+|-----------|---------------|------------|
+| **Rama** | Protagonist, 7th avatar of Lord Vi
