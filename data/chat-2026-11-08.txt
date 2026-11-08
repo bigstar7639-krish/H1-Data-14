@@ -69,3 +69,4 @@ Knowledge 6148 - Temple - Hey friend! நான் Aira – உங்க Tam
 |------|------------|--------------|
 | **Gopuram** | கோபுரம் | Tall, ornate gateway tower, the “face” of the temple. |
 | **Mandapam** 
+Talk 6149 - Time pathi pesalama? Sollu!
