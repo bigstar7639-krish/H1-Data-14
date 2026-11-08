@@ -702,3 +702,6 @@ A: Fairies - Entertainment: Japanese Anime & Manga
 Knowledge Quiz
 Q: In the "Worms" series of video games, which of these weapons is affected by wind?
 A: Bazooka - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?
+A: Gort - Entertainment: Film
