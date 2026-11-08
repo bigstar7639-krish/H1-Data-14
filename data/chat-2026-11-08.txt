@@ -217,3 +217,5 @@ Motivation 6236
 Paravalla! Rest edu - Thirumba try pannu!
 Quote 6237 - Daily try pannu - Jeyichiduva! - Aira
 Thirukkural 6238 - Anbu - Ellam Tharum! - Thirukkural
+Coding Q 6239 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
