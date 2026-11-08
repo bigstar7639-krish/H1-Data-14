@@ -419,3 +419,4 @@ Coding Q 6358 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Emotion Q 6359 - angry?
 Aira: Kovam ah? Deep breath edu!
+Talk 6360 - Motivation pathi pesalama? Sollu!
