@@ -789,3 +789,6 @@ A: Crust - Science & Nature
 Knowledge Quiz
 Q: Which is not a type of neuron?
 A: Perceptual Neuron - Science & Nature
+Knowledge Quiz
+Q: Who assassinated Archduke Franz Ferdinand?
+A: Gavrilo Princip - History
