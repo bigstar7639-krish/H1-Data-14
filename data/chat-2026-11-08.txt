@@ -681,3 +681,4 @@ World Story 6501
 Oru chennai la oru paiyan irunthan! Daily padichan pannan! Oru naal success kedaichuchu! Life maariduchu!
 Fact 278 - Honey - 3000 varusham kedathu!
 Game 6503 - Quiz: Python eppo uruvaachu? Answer: 1991!
+Q 6504 - Bird pathi oru secret sollatta?
