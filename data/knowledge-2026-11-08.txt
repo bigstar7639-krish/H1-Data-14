@@ -599,3 +599,6 @@ Knowledge 6536 - Love - Kadhal - Azhagu!
 Knowledge Quiz
 Q: What is a Tetris piece called?
 A: Tetromino - Entertainment: Video Games
+Knowledge Quiz
+Q: Which country features a maple leaf on its flag?
+A: Canada - Geography
