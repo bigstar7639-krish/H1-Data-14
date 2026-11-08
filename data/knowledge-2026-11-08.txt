@@ -693,3 +693,6 @@ A: Lighthouse - Science: Gadgets
 Knowledge Quiz
 Q: Which of the following manga have the most tankouban volumes?
 A: Golgo 13 - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In the hexadecimal system, what number comes after 9?
+A: The Letter A - Science: Mathematics
