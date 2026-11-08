@@ -690,3 +690,6 @@ A: Charles Dickens - Entertainment: Books
 Knowledge Quiz
 Q: What are the base station trackers used for the HTC Vive called?
 A: Lighthouse - Science: Gadgets
+Knowledge Quiz
+Q: Which of the following manga have the most tankouban volumes?
+A: Golgo 13 - Entertainment: Japanese Anime & Manga
