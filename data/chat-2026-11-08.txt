@@ -628,3 +628,4 @@ Thirukkural 6475 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
 Smart Q 6476 - Plants la eppadi jeyikkarathu?
 Smart Q 6477 - Baby la eppadi jeyikkarathu?
 Pazhamozhi 6478 - Porumai - Perumai Tharum!
+Pazhamozhi 6479 - Aalai Paathu - Aadi Paaru!
