@@ -339,3 +339,6 @@ A: 4 - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Breaking Bad", Walter White is a high school teacher diagnosed with which form of cancer?
 A: Lung Cancer - Entertainment: Television
+Knowledge Quiz
+Q: Who developed the 2016 farming RPG "Stardew Valley"?
+A: Eric Barone - Entertainment: Video Games
