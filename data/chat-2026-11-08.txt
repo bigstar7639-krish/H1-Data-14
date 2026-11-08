@@ -773,3 +773,4 @@ Knowledge 6556 - Movie - Hey! 🎬 **Movie pathi solla** ready ah?
 - **“Karnan” (202
 Knowledge 6557 - Football - Football pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Talk 6558 - React pathi pesalama? Sollu!
+Pazhamozhi 6559 - Aalai Paathu - Aadi Paaru!
