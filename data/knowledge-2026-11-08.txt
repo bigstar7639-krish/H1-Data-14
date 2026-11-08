@@ -515,3 +515,6 @@ A: 1.2 billion USD - Entertainment: Film
 Knowledge Quiz
 Q: Which of the following European languages is classified as a "language isolate?"
 A: Basque - Geography
+Knowledge Quiz
+Q: What is the boss round featured in the "Call Of Duty: Zombies" map "Five"?
+A: The Pentagon Thief - Entertainment: Video Games
