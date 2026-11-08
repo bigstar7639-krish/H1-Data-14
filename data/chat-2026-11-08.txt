@@ -184,3 +184,4 @@ Movie 6216 - Harry Potter - Magic!
 Recipe 6217 - Cake - Maida + Sugar + Egg + 30 min!
 Smart Q 6218 - Love la eppadi jeyikkarathu?
 Recipe 6219 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
+Reading 6220 - Thirukkural - Valluvar!
