@@ -568,3 +568,6 @@ A: 12 - Geography
 Knowledge Quiz
 Q: Who won the 2015 Formula 1 World Championship?
 A: Lewis Hamilton - Sports
+Knowledge Quiz
+Q: By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?
+A: The Artful Dodger - Entertainment: Books
