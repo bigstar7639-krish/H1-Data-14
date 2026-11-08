@@ -159,3 +159,4 @@ Vocab 6202 - Dream = Kanavu
 Recipe 6203 - Cake - Maida + Sugar + Egg + 30 min!
 Aira AI: Un life la Temple eppadi irukku? - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Health 6205 - Health Tip: Daily 30 min walk ponga!
+Recipe 6206 - Cake - Maida + Sugar + Egg + 30 min!
