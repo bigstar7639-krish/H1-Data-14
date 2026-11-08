@@ -836,3 +836,4 @@ Vocab 6603 - Dream = Kanavu
 Q 6604 - Mahabharata pathi oru secret sollatta?
 Recipe 6605 - Cake - Maida + Sugar + Egg + 30 min!
 Aira AI: Ne Madurai la eppadi improve panna mudiyum? - Nalla question! Daily try pannu - Jeyichiduva! 💜
+Recipe 6607 - Snacks - Potato + Masala - Crispy!
