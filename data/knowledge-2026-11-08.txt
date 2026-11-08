@@ -391,3 +391,6 @@ A: Gold - Science & Nature
 Knowledge Quiz
 Q: Who is the lead singer of Arctic Monkeys?
 A: Alex Turner - Entertainment: Music
+Knowledge Quiz
+Q: In Mulan (1998), who is the leader of the Huns?
+A: Shan Yu - Entertainment: Film
