@@ -342,3 +342,6 @@ A: Lung Cancer - Entertainment: Television
 Knowledge Quiz
 Q: Who developed the 2016 farming RPG "Stardew Valley"?
 A: Eric Barone - Entertainment: Video Games
+Knowledge Quiz
+Q: After his loss at the Battle of Waterloo, Napoleon Bonaparte was exiled to which island?
+A: St. Helena - History
