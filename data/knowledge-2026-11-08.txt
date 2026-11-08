@@ -524,3 +524,6 @@ A: England, 1817 - History
 Knowledge Quiz
 Q: In "Overwatch", what is the name of the company that made D.Va's mech?
 A: MEKA - Entertainment: Video Games
+Knowledge Quiz
+Q: What does TIE stand for in reference to the TIE Fighter in "Star Wars"?
+A: Twin Ion Engine - Entertainment: Film
