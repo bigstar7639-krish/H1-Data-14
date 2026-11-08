@@ -211,3 +211,6 @@ A: American Pie - Entertainment: Music
 Knowledge Quiz
 Q: In the "Harry Potter" novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?
 A: Answer a riddle - Entertainment: Books
+Knowledge Quiz
+Q: When was Final Fantasy XV released?
+A: November 29th, 2016 - Entertainment: Video Games
