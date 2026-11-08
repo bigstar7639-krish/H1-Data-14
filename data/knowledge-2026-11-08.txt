@@ -69,3 +69,6 @@ Knowledge 6148 - Temple - Hey friend! நான் Aira – உங்க Tam
 Knowledge Quiz
 Q: In any programming language, what is the most common way to iterate through an array?
 A: 'For' loops - Science: Computers
+Knowledge Quiz
+Q: In the Team Fortress 2 canon, what did Shakespearicles NOT invent?
+A: Stairs - Entertainment: Video Games
