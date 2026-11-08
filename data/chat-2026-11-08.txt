@@ -465,3 +465,4 @@ Quote 6381 - Daily try pannu - Jeyichiduva! - Aira
 Recipe 6382 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Smart Q 6383 - Yoga la eppadi jeyikkarathu?
 Game 6384 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
+Health 6385 - Health Tip: Fruits daily saapdunga!
