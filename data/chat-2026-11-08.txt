@@ -955,3 +955,4 @@ Smart Q 6662 - Business la eppadi jeyikkarathu?
 Emotion Q 6663 - fear?
 Aira: Bayam - Normal! Ne jeyichiduva!
 Health 6664 - Health Tip: Fruits daily saapdunga!
+Game 6665 - Quiz: Python eppo uruvaachu? Answer: 1991!
