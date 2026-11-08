@@ -588,3 +588,5 @@ Q 6453 - Ne Animal la eppadi improve panna mudiyum?
 Recipe 6454 - Snacks - Potato + Masala - Crispy!
 Q 6455 - Faith pathi oru secret sollatta?
 Game 6456 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Coding Q 6457 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
