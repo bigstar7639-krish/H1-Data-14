@@ -5,3 +5,4 @@ Game 6212 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Game 6255 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 6304 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 6319 - Quiz: Python eppo uruvaachu? Answer: 1991!
+Game 6326 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
