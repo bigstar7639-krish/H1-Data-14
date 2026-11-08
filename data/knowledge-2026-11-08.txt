@@ -276,3 +276,6 @@ Knowledge 6288 - Python - Python loop: `for i in range(5): print(i)`
 Knowledge Quiz
 Q: What was found in 1946 by two young shepards near a cave?
 A: Dead Sea Scrolls - History
+Knowledge Quiz
+Q: Which of these cartoons had a character named Heinz Doofenshmirtz?
+A: Phineas & Ferb - Entertainment: Cartoon & Animations
