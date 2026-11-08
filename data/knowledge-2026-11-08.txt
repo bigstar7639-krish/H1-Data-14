@@ -699,3 +699,6 @@ A: The Letter A - Science: Mathematics
 Knowledge Quiz
 Q: The heroine of "Humanity Has Declined" is a mediator between humans and what?
 A: Fairies - Entertainment: Japanese Anime & Manga
+Knowledge Quiz
+Q: In the "Worms" series of video games, which of these weapons is affected by wind?
+A: Bazooka - Entertainment: Video Games
