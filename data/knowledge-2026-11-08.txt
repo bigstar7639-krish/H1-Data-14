@@ -196,3 +196,6 @@ Knowledge 6245 - Wisdom - Wisdom pathi sollu - Nalla question! Daily try pannu -
 Knowledge Quiz
 Q: In the game "Cave Story," what is the character Balrog's catchphrase?
 A: Huzzah! - Entertainment: Video Games
+Knowledge Quiz
+Q: What was the world's first handheld game device?
+A: Mattel Auto Race - Entertainment: Video Games
