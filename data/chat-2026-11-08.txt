@@ -965,3 +965,4 @@ Oru chinna paris la - Oru ponnu try pannan pannitu iruntha! Yaarum nambala! Aana
 Coding Q 6670 - Website eppadi pannurathu?
 Aira: Website - HTML + CSS + JS!
 Kavithai 6671 - Un Kural - En Isai! - Aira
+Kavithai 6672 - Un Sirippu - En Vazhkai! - Aira
