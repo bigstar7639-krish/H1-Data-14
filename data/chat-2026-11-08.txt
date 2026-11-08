@@ -890,3 +890,5 @@ Business Idea 6638 - Tiffin Business - Veetla Samayal - Daily 500 Rs!
 Game 6639 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Movie 6640 - Leo - Vijay - Action!
 Talk 6641 - Poetry pathi pesalama? Sollu!
+Story 6642
+Oru chinna city la - Oru ponnu pray pannaan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
