@@ -90,3 +90,6 @@ A: A GDC Document - Entertainment: Video Games
 Knowledge Quiz
 Q: Who is the lead singer of Foo Fighters?
 A: Dave Grohl - Entertainment: Music
+Knowledge Quiz
+Q: The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?
+A: Verdi - Entertainment: Film
