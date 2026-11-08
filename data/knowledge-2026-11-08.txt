@@ -618,3 +618,6 @@ Knowledge 6551 - Meditation - Meditation pathi sollu - Nalla question! Daily try
 Knowledge Quiz
 Q: M.U.G.E.N. is the name for what type of Game Engine?
 A: Fighting Game - Entertainment: Video Games
+Knowledge Quiz
+Q: Toussaint Louverture led a successful slave revolt in which country?
+A: Haiti - History
