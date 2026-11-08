@@ -868,3 +868,5 @@ World Story 6622
 Oru sea la oru hero irunthan! Daily help pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Q 6623 - Dancing pathi oru secret sollatta?
 Talk 6624 - Madurai pathi pesalama? Sollu!
+World Story 6625
+Oru city la oru raja irunthan! Daily dream pannan pannan! Oru naal magic kedaichuchu! Life maariduchu!
