@@ -282,3 +282,6 @@ A: Phineas & Ferb - Entertainment: Cartoon & Animations
 Knowledge Quiz
 Q: What is the name of the main Character from the Series: Dead Space?
 A: Isaac Clarke - General Knowledge
+Knowledge Quiz
+Q: What is the common name of the chemical compound "dihydrogen monoxide"?
+A: Water - Science & Nature
