@@ -786,3 +786,6 @@ A: Φ (phi) - Science: Mathematics
 Knowledge Quiz
 Q: What is the thin, outermost layer of the Earth?
 A: Crust - Science & Nature
+Knowledge Quiz
+Q: Which is not a type of neuron?
+A: Perceptual Neuron - Science & Nature
