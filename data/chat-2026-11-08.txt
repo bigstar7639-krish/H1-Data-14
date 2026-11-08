@@ -689,3 +689,4 @@ Oru new york la oru farmer irunthan! Daily book padichan pannan! Oru naal book k
 Coding Q 6507 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Health 6508 - Health Tip: 7 mani neram thoongunga!
+Vocab 6509 - Courage = Thairiyam
