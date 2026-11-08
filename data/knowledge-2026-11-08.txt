@@ -214,3 +214,6 @@ A: Answer a riddle - Entertainment: Books
 Knowledge Quiz
 Q: When was Final Fantasy XV released?
 A: November 29th, 2016 - Entertainment: Video Games
+Knowledge Quiz
+Q: On what street did the 1666 Great Fire of London start?
+A: Pudding Lane - History
