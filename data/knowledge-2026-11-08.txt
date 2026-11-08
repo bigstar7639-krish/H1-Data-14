@@ -142,3 +142,6 @@ A: El Niño - Entertainment: Video Games
 Knowledge Quiz
 Q: According to the 2014-2015 Australian Bureau of Statistics, what percentage of Australians were born overseas?
 A: 28% - General Knowledge
+Knowledge Quiz
+Q: How many stars are featured on New Zealand's flag?
+A: 4 - Geography
