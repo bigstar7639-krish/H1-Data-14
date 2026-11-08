@@ -565,3 +565,6 @@ A: Labrador Retriever - Entertainment: Film
 Knowledge Quiz
 Q: How many independent countries are there within the continent of South America?
 A: 12 - Geography
+Knowledge Quiz
+Q: Who won the 2015 Formula 1 World Championship?
+A: Lewis Hamilton - Sports
