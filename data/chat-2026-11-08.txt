@@ -654,3 +654,5 @@ Paravalla! Rest edu - Thirumba try pannu!
 Fact 277 - Tamil - 2000+ varusha mozhi!
 Coding Q 6495 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
+Joke 6496
+Why bike sad? Petrol illa!
