@@ -294,3 +294,6 @@ A: 56 - History
 Knowledge Quiz
 Q: The “fairy” type made it’s debut in which generation of the Pokemon core series games?
 A: 6th - General Knowledge
+Knowledge Quiz
+Q: What round is a classic AK-47 chambered in?
+A: 7.62x39mm - Science: Gadgets
