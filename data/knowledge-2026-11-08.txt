@@ -403,3 +403,6 @@ A: Germany - History
 Knowledge Quiz
 Q: Who is the main protagonist in the 'Ratchet and Clank' game series?
 A: Ratchet - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the capital of Bangladesh?
+A: Dhaka - Geography
