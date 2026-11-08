@@ -494,3 +494,6 @@ A: Inuktitut - Geography
 Knowledge Quiz
 Q: Who won the 1989 Drum Corps International championships?
 A: Santa Clara Vanguard - Entertainment: Music
+Knowledge Quiz
+Q: Area 51 is located in which US state?
+A: Nevada - General Knowledge
