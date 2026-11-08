@@ -272,3 +272,4 @@ Knowledge 6286 - Earth - Hey buddy! 🌍 Let’s chat about **Earth** – our 
 Knowledge Quiz
 Q: As of the year 2026, how many known moons does Jupiter have?
 A: 97 - Entertainment: Video Games
+Knowledge 6288 - Python - Python loop: `for i in range(5): print(i)`
