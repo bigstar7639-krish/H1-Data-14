@@ -441,3 +441,6 @@ Knowledge 6407 - Tokyo - **Hey friend! 🌏 Let’s talk about Tokyo – the buz
 Knowledge Quiz
 Q: In which English county is Stonehenge?
 A: Wiltshire - Geography
+Knowledge Quiz
+Q: What polymer is used to make CDs, safety goggles and riot shields?
+A: Polycarbonate - Science & Nature
