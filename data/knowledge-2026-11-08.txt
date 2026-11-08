@@ -708,3 +708,6 @@ A: Gort - Entertainment: Film
 Knowledge Quiz
 Q: In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? 
 A: Shedinja  - Entertainment: Video Games
+Knowledge Quiz
+Q: Who is the frontman of Muse?
+A: Matt Bellamy - Entertainment: Music
