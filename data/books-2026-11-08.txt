@@ -12,3 +12,4 @@ kan - in.gazette.karnataka_eo.2020-06-24.UDD05MLR2018 - Karnataka ExtraOrdinary 
 kor - chosun-ilbo-1930.03.13e - 朝鮮日報 1930.03.13e
 hin - in.gov.bih.gazette.2013-05-22.395 - Bihar Gazette, 2013-05-22, Extra Ordinary
 tel - burning-rice-field-telugu - కాలుతున్న ధాన్యపు పొలాలు - తెలుగు
+tel - in.gazette.telangana.2026-09-16.1790749024058 - Telangana Gazette, 2026-09-16, Extraordinary, Part PART II, Number 821
