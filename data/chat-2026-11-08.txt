@@ -684,3 +684,5 @@ Game 6503 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Q 6504 - Bird pathi oru secret sollatta?
 Joke 6505
 Why bike sad? Petrol illa!
+Story 6506
+Oru new york la oru farmer irunthan! Daily book padichan pannan! Oru naal book kedaichuchu! Life maariduchu!
