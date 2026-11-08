@@ -646,3 +646,5 @@ Why bike sad? Petrol illa!
 Motivation 6489
 Paravalla! Rest edu - Thirumba try pannu!
 Pazhamozhi 6490 - Sontha Kaal la Ninnu - Jeyippa!
+Coding Q 6491 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
