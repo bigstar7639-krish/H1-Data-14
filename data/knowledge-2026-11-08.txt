@@ -663,3 +663,6 @@ A: John O'Groats - Entertainment: Video Games
 Knowledge Quiz
 Q: In "Mario & Sonic at the Olympic Games", characters are split into how many types?
 A: 4 - Entertainment: Video Games
+Knowledge Quiz
+Q: How many degrees Fahrenheit is 100 degrees Celsius? 
+A: 212 - Science & Nature
