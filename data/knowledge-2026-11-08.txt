@@ -571,3 +571,6 @@ A: Lewis Hamilton - Sports
 Knowledge Quiz
 Q: By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?
 A: The Artful Dodger - Entertainment: Books
+Knowledge Quiz
+Q: Which movie contains the quote, "Say hello to my little friend!"?
+A: Scarface - Entertainment: Film
