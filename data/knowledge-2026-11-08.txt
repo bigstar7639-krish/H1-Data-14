@@ -208,3 +208,6 @@ A: 4014 - Vehicles
 Knowledge Quiz
 Q: What 1970's American ballad referred to the 1959 plane crash as the "the day the music died"?
 A: American Pie - Entertainment: Music
+Knowledge Quiz
+Q: In the "Harry Potter" novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?
+A: Answer a riddle - Entertainment: Books
