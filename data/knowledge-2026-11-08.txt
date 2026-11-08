@@ -732,3 +732,6 @@ A: Officer Laura Brick - Entertainment: Video Games
 Knowledge Quiz
 Q: What did the name of the Tor Anonymity Network orignially stand for?
 A: The Onion Router - Science: Computers
+Knowledge Quiz
+Q: In 2014, over 6 million General Motors vehicles were recalled due to what critical flaw?
+A: Faulty ignition switch - Vehicles
