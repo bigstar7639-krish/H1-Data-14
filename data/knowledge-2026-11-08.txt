@@ -145,3 +145,6 @@ A: 28% - General Knowledge
 Knowledge Quiz
 Q: How many stars are featured on New Zealand's flag?
 A: 4 - Geography
+Knowledge Quiz
+Q: Which of the following are cells of the adaptive immune system?
+A: Cytotoxic T cells - Science & Nature
