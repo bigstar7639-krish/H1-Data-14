@@ -497,3 +497,6 @@ A: Santa Clara Vanguard - Entertainment: Music
 Knowledge Quiz
 Q: Area 51 is located in which US state?
 A: Nevada - General Knowledge
+Knowledge Quiz
+Q: Which of these companies does NOT manufacture motorcycles?
+A: Toyota - Vehicles
