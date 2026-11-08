@@ -530,3 +530,6 @@ A: Twin Ion Engine - Entertainment: Film
 Knowledge Quiz
 Q: What was Bitcoin's block size limit in 2010?
 A: 1 MB - Science: Computers
+Knowledge Quiz
+Q: "Rollercoaster Tycoon" was programmed mostly entirely in...
+A: x86 Assembly - Entertainment: Video Games
