@@ -590,3 +590,4 @@ Q 6455 - Faith pathi oru secret sollatta?
 Game 6456 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
 Coding Q 6457 - JavaScript la function enna?
 Aira: JS function: `function hi(){ return 'Hi Aira!' }`
+Reading 6458 - Python Crash Course!
