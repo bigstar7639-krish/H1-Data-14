@@ -611,3 +611,6 @@ A: Tom Vasel - Entertainment: Board Games
 Knowledge Quiz
 Q: What is the relationship between Rick and Morty in the show "Rick and Morty"?
 A: Grandfather and Grandson - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: Who created the digital distribution platform Steam?
+A: Valve - Entertainment: Video Games
