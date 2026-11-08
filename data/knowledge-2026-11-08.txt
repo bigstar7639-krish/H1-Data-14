@@ -577,3 +577,6 @@ A: Scarface - Entertainment: Film
 Knowledge Quiz
 Q: In 2016, who won the Formula 1 World Constructor's Championship for the third time in a row?
 A: Mercedes-AMG Petronas - Sports
+Knowledge Quiz
+Q: What name was historically used for the Turkish city currently known as Istanbul?
+A: Constantinople - Geography
