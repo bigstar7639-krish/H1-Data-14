@@ -533,3 +533,6 @@ A: 1 MB - Science: Computers
 Knowledge Quiz
 Q: "Rollercoaster Tycoon" was programmed mostly entirely in...
 A: x86 Assembly - Entertainment: Video Games
+Knowledge Quiz
+Q: Which of these actors have NOT played Spiderman in the movies?
+A: Michael Cera - Entertainment: Film
