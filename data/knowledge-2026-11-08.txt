@@ -217,3 +217,6 @@ A: November 29th, 2016 - Entertainment: Video Games
 Knowledge Quiz
 Q: On what street did the 1666 Great Fire of London start?
 A: Pudding Lane - History
+Knowledge Quiz
+Q: What video game engine does the videogame Quake 2 run in?
+A: iD Tech 2 - Entertainment: Video Games
