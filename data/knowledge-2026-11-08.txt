@@ -672,3 +672,6 @@ A: Syd Barrett - Entertainment: Music
 Knowledge Quiz
 Q: Which European city is known as the "City of Light"?
 A: Paris - Geography
+Knowledge Quiz
+Q: What was the first Disney movie to use CGI?
+A: The Black Cauldron - Entertainment: Cartoon & Animations
