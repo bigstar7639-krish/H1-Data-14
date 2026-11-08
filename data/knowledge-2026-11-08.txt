@@ -303,3 +303,6 @@ A: Unreal - Entertainment: Video Games
 Knowledge Quiz
 Q: Who voiced Finn in Adventure Time?
 A: Jeremy Shada - Entertainment: Cartoon & Animations
+Knowledge Quiz
+Q: What is the capital of Senegal?
+A: Dakar - Geography
