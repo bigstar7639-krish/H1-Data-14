@@ -126,3 +126,6 @@ A: Ray Bradbury - Entertainment: Books
 Knowledge Quiz
 Q: How many legs do butterflies have?
 A: 6 - Animals
+Knowledge Quiz
+Q: In "Halo", what is the name of the planet which Installation 04 orbits?
+A: Threshold - Entertainment: Video Games
