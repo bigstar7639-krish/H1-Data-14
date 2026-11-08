@@ -543,3 +543,5 @@ Fact 276 - Tamil - 2000+ varusha mozhi!
 Vocab 6432 - Kindness = Anbu
 Movie 6433 - Ponniyin Selvan - Kalki!
 Smart Q 6434 - Einstein la eppadi jeyikkarathu?
+Coding Q 6435 - Python la loop eppadi?
+Aira: Python loop: `for i in range(5): print(i)`
