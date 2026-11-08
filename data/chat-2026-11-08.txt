@@ -247,3 +247,5 @@ Talk 6259 - Peace pathi pesalama? Sollu!
 Q 6260 - Unakku Sad pathi enna theriyum?
 World Story 6261
 Oru chinna chennai la - Oru ponnu book padichan pannitu iruntha! Yaarum nambala! Aana ava vittukudukkala!
+Joke 6262
+Why bike sad? Petrol illa!
