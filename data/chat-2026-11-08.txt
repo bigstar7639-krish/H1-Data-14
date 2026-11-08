@@ -867,3 +867,4 @@ Fact 282 - Tamil - 2000+ varusha mozhi!
 World Story 6622
 Oru sea la oru hero irunthan! Daily help pannan pannan! Oru naal power kedaichuchu! Life maariduchu!
 Q 6623 - Dancing pathi oru secret sollatta?
+Talk 6624 - Madurai pathi pesalama? Sollu!
