@@ -602,3 +602,6 @@ A: Tetromino - Entertainment: Video Games
 Knowledge Quiz
 Q: Which country features a maple leaf on its flag?
 A: Canada - Geography
+Knowledge Quiz
+Q: Grand Theft Autumn/Where Is Your Boy is a song by which band?
+A: Fall Out Boy - Entertainment: Music
