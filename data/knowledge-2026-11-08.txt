@@ -705,3 +705,6 @@ A: Bazooka - Entertainment: Video Games
 Knowledge Quiz
 Q: What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?
 A: Gort - Entertainment: Film
+Knowledge Quiz
+Q: In Pokemon, the ability Wonder Guard is exclusive to which Pokemon? 
+A: Shedinja  - Entertainment: Video Games
