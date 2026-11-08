@@ -717,3 +717,6 @@ A: 1000 - Science: Computers
 Knowledge Quiz
 Q: In the Marvel comic "The Superior Spider-Man", Peter Parker's body is taken over by which character?
 A: Otto Octavius  - Entertainment: Comics
+Knowledge Quiz
+Q: Who led the Communist Revolution of Russia?
+A: Vladimir Lenin - History
