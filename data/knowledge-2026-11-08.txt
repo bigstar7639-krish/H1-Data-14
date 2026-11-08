@@ -783,3 +783,6 @@ A: Germany - Sports
 Knowledge Quiz
 Q: A mathematical constant, known as "The Golden Ratio", is most commonly represented by which greek letter?
 A: Φ (phi) - Science: Mathematics
+Knowledge Quiz
+Q: What is the thin, outermost layer of the Earth?
+A: Crust - Science & Nature
