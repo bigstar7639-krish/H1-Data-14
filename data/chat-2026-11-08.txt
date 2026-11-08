@@ -710,3 +710,4 @@ Aira AI: Python loop: `for i in range(5): print(i)`
 Game 6526 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
 Q 6527 - Success pathi oru story kekkura?
 Kavithai 6528 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
+Pazhamozhi 6529 - Sontha Kaal la Ninnu - Jeyippa!
