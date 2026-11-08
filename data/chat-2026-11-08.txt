@@ -701,3 +701,4 @@ Vocab 6516 - Success = Vetri
 Smart Q 6517 - Life la eppadi jeyikkarathu?
 Movie 6518 - Harry Potter - Magic!
 Health 6519 - Health Tip: Daily 30 min walk ponga!
+Thirukkural 6520 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
