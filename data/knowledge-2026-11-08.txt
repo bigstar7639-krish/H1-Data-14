@@ -66,3 +66,6 @@ Knowledge 6148 - Temple - Hey friend! நான் Aira – உங்க Tam
 |------|------------|--------------|
 | **Gopuram** | கோபுரம் | Tall, ornate gateway tower, the “face” of the temple. |
 | **Mandapam** 
+Knowledge Quiz
+Q: In any programming language, what is the most common way to iterate through an array?
+A: 'For' loops - Science: Computers
