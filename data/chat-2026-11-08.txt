@@ -224,3 +224,4 @@ Q 6241 - Cat pathi oru secret sollatta?
 Recipe 6242 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Knowledge 6243 - Kindness - Kindness pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
 Reading 6244 - Mahabharata!
+Knowledge 6245 - Wisdom - Wisdom pathi sollu - Nalla question! Daily try pannu - Jeyichiduva! 💜
