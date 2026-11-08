@@ -397,3 +397,6 @@ A: Shan Yu - Entertainment: Film
 Knowledge Quiz
 Q: What was the most populous city in the Americas in 2015?
 A: São Paulo - Geography
+Knowledge Quiz
+Q: Which of the following countries was the first to send an object into space?
+A: Germany - History
