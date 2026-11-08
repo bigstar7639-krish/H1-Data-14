@@ -777,3 +777,6 @@ Knowledge 6648 - Happiness - Hey friend! 😊
 Knowledge Quiz
 Q:  In which country was the Michelin tire company founded in 1889?
 A: France - General Knowledge
+Knowledge Quiz
+Q: Which team won 2014 FIFA World Cup in Brazil?
+A: Germany - Sports
