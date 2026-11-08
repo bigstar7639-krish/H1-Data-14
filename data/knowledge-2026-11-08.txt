@@ -723,3 +723,6 @@ A: Vladimir Lenin - History
 Knowledge Quiz
 Q: How many voice channels does the Nintendo Entertainment System support natively?
 A: 5 - Entertainment: Video Games
+Knowledge Quiz
+Q: What is the scientific name of the red fox?
+A: Vulpes Vulpes - Science & Nature
