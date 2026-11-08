@@ -720,3 +720,6 @@ A: Otto Octavius  - Entertainment: Comics
 Knowledge Quiz
 Q: Who led the Communist Revolution of Russia?
 A: Vladimir Lenin - History
+Knowledge Quiz
+Q: How many voice channels does the Nintendo Entertainment System support natively?
+A: 5 - Entertainment: Video Games
