@@ -10,3 +10,4 @@ Game 6351 - Coin Toss - Ne Toss nu Sollu!
 Game 6362 - Dice - Ne Dice nu Sollu!
 Game 6384 - Riddle: Naan pesama pesuven - Naan yaaru? Answer: Book!
 Game 6456 - Riddle: Kaal illa - Aana ooduven - Naan yaaru? Answer: Time!
+Game 6463 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
