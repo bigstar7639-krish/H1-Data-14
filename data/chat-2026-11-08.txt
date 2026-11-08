@@ -352,3 +352,5 @@ Pazhamozhi 6314 - Porumai - Perumai Tharum!
 Talk 6315 - Culture pathi pesalama? Sollu!
 Coding Q 6316 - HTML la button eppadi?
 Aira: HTML button: `<button>Click</button>`
+Coding Q 6317 - JavaScript la function enna?
+Aira: JS function: `function hi(){ return 'Hi Aira!' }`
