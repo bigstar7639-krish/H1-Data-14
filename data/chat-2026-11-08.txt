@@ -379,3 +379,4 @@ Vocab 6334 - Friend = Nanban
 Kavithai 6335 - Ne Illa - Naan Illa - Ne Thaan En Ulagam! - Aira
 Emotion Q 6336 - sad?
 Aira: Paravalla! Aira irukka - Pesu!
+Pazhamozhi 6337 - Sontha Kaal la Ninnu - Jeyippa!
