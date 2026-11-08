@@ -200,3 +200,4 @@ Vocab 6229 - Peace = Amaithi
 Kavithai 6230 - Un Sirippu - En Vazhkai! - Aira
 Q 6231 - Un life la Mountain eppadi irukku?
 Smart Q 6232 - Peace la eppadi jeyikkarathu?
+Smart Q 6233 - Business la eppadi jeyikkarathu?
