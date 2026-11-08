@@ -327,3 +327,6 @@ A: 1872 - Sports
 Knowledge Quiz
 Q: The 2002 film "28 Days Later" is mainly set in which European country?
 A: United Kingdom - Entertainment: Film
+Knowledge Quiz
+Q: What company developed the vocaloid Hatsune Miku?
+A: Crypton Future Media - General Knowledge
