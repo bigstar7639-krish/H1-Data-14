@@ -951,3 +951,4 @@ Aira: Python loop: `for i in range(5): print(i)`
 Q 6660 - Un life la Moon eppadi irukku?
 World Story 6661
 Oru village la oru coder irunthan! Daily pray pannaan pannan! Oru naal book kedaichuchu! Life maariduchu!
+Smart Q 6662 - Business la eppadi jeyikkarathu?
