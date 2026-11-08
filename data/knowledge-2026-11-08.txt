@@ -223,3 +223,6 @@ A: iD Tech 2 - Entertainment: Video Games
 Knowledge Quiz
 Q: Which one is NOT the function of engine oil in car engines?
 A: Combustion - Vehicles
+Knowledge Quiz
+Q: Which of the following European languages is classified as a "language isolate?"
+A: Basque - Geography
