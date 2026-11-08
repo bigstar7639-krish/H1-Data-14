@@ -792,3 +792,6 @@ A: Perceptual Neuron - Science & Nature
 Knowledge Quiz
 Q: Who assassinated Archduke Franz Ferdinand?
 A: Gavrilo Princip - History
+Knowledge Quiz
+Q: What is the name of the Supermassive Black Hole in the centre of the Milky Way?
+A: Sagittarius A* - Science & Nature
