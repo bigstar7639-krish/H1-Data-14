@@ -512,3 +512,6 @@ A: Quantum Link - Science: Computers
 Knowledge Quiz
 Q: How much money did the 2019 Marvel movie "Avengers: Endgame" gross for it's record-breaking worldwide opening weekend?
 A: 1.2 billion USD - Entertainment: Film
+Knowledge Quiz
+Q: Which of the following European languages is classified as a "language isolate?"
+A: Basque - Geography
