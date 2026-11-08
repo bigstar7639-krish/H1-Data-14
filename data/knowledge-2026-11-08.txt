@@ -666,3 +666,6 @@ A: 4 - Entertainment: Video Games
 Knowledge Quiz
 Q: How many degrees Fahrenheit is 100 degrees Celsius? 
 A: 212 - Science & Nature
+Knowledge Quiz
+Q: Who is the Pink Floyd song "Shine On You Crazy Diamond" written about?
+A: Syd Barrett - Entertainment: Music
