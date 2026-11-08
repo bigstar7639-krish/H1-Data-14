@@ -620,3 +620,4 @@ Courage (துணிச்சல்) ஒரு skill-யாக train‑செ�
 - **Effect:** Brai
 Health 6470 - Yoga Tip: Daily 5 min deep breath edu!
 Talk 6471 - Animals pathi pesalama? Sollu!
+Q 6472 - Fitness pathi oru secret sollatta?
