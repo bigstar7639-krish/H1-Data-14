@@ -181,3 +181,6 @@ A: 5 - Entertainment: Television
 Knowledge Quiz
 Q: Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?
 A: Masta Killa - Entertainment: Music
+Knowledge Quiz
+Q: What was the birthplace of musical artist 'Sir Robert Bryson Hall II' (aka. Logic)?
+A: Maryland, United States - Entertainment: Music
