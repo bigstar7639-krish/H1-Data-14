@@ -593,3 +593,4 @@ Aira: JS function: `function hi(){ return 'Hi Aira!' }`
 Reading 6458 - Python Crash Course!
 Joke 6459
 Teacher: Yen late? Student: School Ahead board!
+Thirukkural 6460 - Kattrathu - Kai Mann Alavu! - Thirukkural
