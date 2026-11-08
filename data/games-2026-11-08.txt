@@ -14,3 +14,4 @@ Game 6463 - Game: Oru number nenaichukko - 2 al multiply pannu - 10 add pannu!
 Game 6468 - Quiz: Tamil - 2000 varusha mozhi ethu? Answer: Tamil!
 Game 6503 - Quiz: Python eppo uruvaachu? Answer: 1991!
 Game 6526 - Rock Paper Scissors - Ne Rock / Paper / Scissors nu Sollu!
+Game 6533 - Coin Toss - Ne Toss nu Sollu!
