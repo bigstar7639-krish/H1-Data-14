@@ -656,3 +656,4 @@ Coding Q 6495 - Python la loop eppadi?
 Aira: Python loop: `for i in range(5): print(i)`
 Joke 6496
 Why bike sad? Petrol illa!
+Smart Q 6497 - Plants la eppadi jeyikkarathu?
