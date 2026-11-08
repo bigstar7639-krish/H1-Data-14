@@ -3,3 +3,4 @@ Q 6118 - Ne Storytelling la eppadi improve panna mudiyum?
 Recipe 6119 - Chicken Biryani - Rice + Chicken + Masala + 30 min - Super!
 Talk 6120 - Bharathiyar pathi pesalama? Sollu!
 Thirukkural 6121 - Muyarchi - Thiru Vilaiyaattum! - Thirukkural
+Reading 6122 - Python Crash Course!
