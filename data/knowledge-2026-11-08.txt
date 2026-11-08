@@ -220,3 +220,6 @@ A: Pudding Lane - History
 Knowledge Quiz
 Q: What video game engine does the videogame Quake 2 run in?
 A: iD Tech 2 - Entertainment: Video Games
+Knowledge Quiz
+Q: Which one is NOT the function of engine oil in car engines?
+A: Combustion - Vehicles
