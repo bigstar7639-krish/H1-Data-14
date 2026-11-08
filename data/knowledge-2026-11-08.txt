@@ -300,3 +300,6 @@ A: 7.62x39mm - Science: Gadgets
 Knowledge Quiz
 Q: Which of these video game engines was made by the company Epic Games?
 A: Unreal - Entertainment: Video Games
+Knowledge Quiz
+Q: Who voiced Finn in Adventure Time?
+A: Jeremy Shada - Entertainment: Cartoon & Animations
