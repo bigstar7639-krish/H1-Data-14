@@ -415,3 +415,6 @@ A: 35 - Politics
 Knowledge Quiz
 Q: What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?
 A: Gort - Entertainment: Film
+Knowledge Quiz
+Q: How many partners can you obtain in Paper Mario: The Thousand-Year Door?
+A: 7 - Entertainment: Video Games
