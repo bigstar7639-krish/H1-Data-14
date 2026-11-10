@@ -306,3 +306,7 @@ Luck - Bad Luck and Trouble
 Luck - Hard Luck
 Karma - The Karma of Love
 Karma - Karma-yoga
+Destiny - Uncertain Destiny
+Destiny - Broken Destiny
+Destiny - Bond of Destiny
+Karma - Karma
